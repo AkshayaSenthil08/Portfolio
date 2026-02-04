@@ -4,7 +4,6 @@ import img from "./pic.png";
 import pics from './finder.png';
 import pic from './assests/craftp.jpg'
 import file from './assests/eternal.png'
-import file2 from './assests/Blood.png'
 
 
 
