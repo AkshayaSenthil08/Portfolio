@@ -201,7 +201,7 @@ PNR status via client-side logic
   </div>
  <div className="railway-actions">
   <a
-    href="https://akshayasenthil08.github.io/RailwayReservation/"
+    href="https://railway-reservation-neon.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="action-btn"
@@ -209,7 +209,6 @@ PNR status via client-side logic
     ▶
   </a>
 
-  {/* Source Code */}
   <a
     href="https://github.com/AkshayaSenthil08/RailwayReservation"
     target="_blank"
@@ -243,7 +242,7 @@ search, poster display, and responsive UI
   </div>
  <div className="railway-actions">
   <a
-    href="https://akshayasenthil08.github.io/Movie-Finder-/"
+    href="https://movie-finder-git-main-akshayas-projects-2303b88c.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="action-btn"
@@ -251,7 +250,6 @@ search, poster display, and responsive UI
     ▶
   </a>
 
-  {/* Source Code */}
   <a
     href="https://github.com/AkshayaSenthil08/Movie-Finder-"
     target="_blank"
@@ -286,7 +284,7 @@ input validation and modern UI.
   </div>
  <div className="railway-actions">
   <a
-    href="https://akshayasenthil08.github.io/Converter/"
+    href="https://converter-three-mu.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="action-btn"
@@ -294,7 +292,6 @@ input validation and modern UI.
     ▶
   </a>
 
-  {/* Source Code */}
   <a
     href="https://github.com/AkshayaSenthil08/Converter"
     target="_blank"
@@ -328,7 +325,7 @@ input validation and modern UI.
  <div className="railway-actions">
   <a
 
-      href="https://akshayasenthil08.github.io/LuxuryProject/"
+      href="https://luxury-project.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="action-btn"
@@ -336,7 +333,6 @@ input validation and modern UI.
     ▶
   </a>
 
-  {/* Source Code */}
   <a
       href="https://github.com/AkshayaSenthil08/LuxuryProject"
     target="_blank"
@@ -368,7 +364,7 @@ Eternal Project is a clean, modern multi-section landing page showcasing service
   </div>
  <div className="railway-actions">
   <a
-      href="https://akshayasenthil08.github.io/EternalProject/"
+      href="https://eternal-project.vercel.app/"
    
     target="_blank"
     rel="noopener noreferrer"
@@ -377,7 +373,6 @@ Eternal Project is a clean, modern multi-section landing page showcasing service
     ▶
   </a>
 
-  {/* Source Code */}
   <a
  href="https://github.com/AkshayaSenthil08/EternalProject"
     target="_blank"
@@ -395,11 +390,11 @@ Eternal Project is a clean, modern multi-section landing page showcasing service
   </div>
 </div>
 
-      {/* CONTACT */}
+  
      <section className="contact-section" id="contact">
   <div className="contact-wrapper">
 
-    {/* LEFT – FORM */}
+   
     <div className="contact-form">
     <div className="nebula-input">
   <input
@@ -464,7 +459,7 @@ Eternal Project is a clean, modern multi-section landing page showcasing service
 
     </div>
 
-    {/* RIGHT – INFO */}
+  
     <div className="contact-info">
       <div className="info-row">
         <span>@</span>
@@ -494,7 +489,7 @@ Eternal Project is a clean, modern multi-section landing page showcasing service
 </section>
 
 
-      {/* FOOTER */}
+     
       <footer>
         <p>© 2025 Akshaya. All rights reserved.</p>
       </footer>
