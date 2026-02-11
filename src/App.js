@@ -242,7 +242,7 @@ search, poster display, and responsive UI
   </div>
  <div className="railway-actions">
   <a
-    href="https://movie-finder-git-main-akshayas-projects-2303b88c.vercel.app/"
+    href="https://movie-finder-sepia.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="action-btn"
